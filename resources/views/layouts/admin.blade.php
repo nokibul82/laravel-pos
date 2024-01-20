@@ -56,7 +56,7 @@
         </div>
         <!-- /.content-wrapper -->
 
-        @include('layouts.partials.footer')
+        <!-- @include('layouts.partials.footer') -->
 
         <!-- Control Sidebar -->
         <aside class="control-sidebar control-sidebar-dark">
